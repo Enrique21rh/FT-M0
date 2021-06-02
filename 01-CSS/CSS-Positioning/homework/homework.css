@@ -24,7 +24,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 #ejercicioTres {
-    position: absolute;
+    position: relative;
     top: 100px;
     left: 200px;
 }
